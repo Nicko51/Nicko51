@@ -1,4 +1,4 @@
-<p style="background-image: url('https://phoneky.co.uk/thumbs/screensavers/down/movies/matrixfall_RZmAAsxK.gif');">
+<div style="background-image: url('https://phoneky.co.uk/thumbs/screensavers/down/movies/matrixfall_RZmAAsxK.gif'); background-size: cover; background-position: center;">
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Gihan Saminda</h1>
@@ -65,4 +65,4 @@
 <h3 align="Center">Languages and Tools:</h3>
 <p align="Center"> <img src="https://skillicons.dev/icons?i=aws,azure,bash,c,cs,docker,figma,gcp,git,illustrator,java,js,linux,matlab,mysql,oracle,photoshop,php,python,scikit-learn,zapier" alt="Tech Stack" /></p>
 
-</p>
+</div>
