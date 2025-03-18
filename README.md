@@ -1,3 +1,9 @@
+<style>
+body {
+  background-image: https://phoneky.co.uk/thumbs/screensavers/down/movies/matrixfall_RZmAAsxK.gif;
+}
+</style>
+
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Gihan Saminda</h1>
 <h3 align="center">Undergrad in Network & Cyber Security | Navigating Cyber Threats, Building Secure Networks, and Mastering Ethical Hacking!</h3>
