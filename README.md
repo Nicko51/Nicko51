@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gihan Saminda</h1>
 <h3 align="center">Undergrad in Network & Cyber Security | Navigating Cyber Threats, Building Secure Networks, and Mastering Ethical Hacking!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicko51&label=Profile%20views&color=0e75b6&style=flat" alt="nicko51" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nicko51&label=Profile%20views&color=0e75b6&style=flat" alt="nicko51" /> </p>
 
 - 🌱 I’m currently learning **Penetration Testing | Digital Forensics**
 
