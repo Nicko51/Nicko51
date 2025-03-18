@@ -51,11 +51,11 @@
 <h3 align="Center">Connect with me:</h3>
 <p align="Center">
 <a href="https://twitter.com/gihansaminda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gihansaminda" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/gihan saminda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gihan saminda" height="30" width="40" /></a>
-<a href="https://fb.com/gihan saminda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gihan saminda" height="30" width="40" /></a>
-<a href="https://instagram.com/_.giha_n._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.giha_n._" height="30" width="40" /></a>
-<a href="https://medium.com/@gihansaminda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gihansaminda" height="30" width="40" /></a>
-<a href="https://discord.gg/nicko51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nicko51" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gihan saminda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gihan saminda" height="40" width="50" /></a>
+<a href="https://fb.com/gihan saminda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gihan saminda" height="40" width="50" /></a>
+<a href="https://instagram.com/_.giha_n._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.giha_n._" height="40" width="50" /></a>
+<a href="https://medium.com/@gihansaminda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gihansaminda" height="40" width="50" /></a>
+<a href="https://discord.gg/nicko51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nicko51" height="40" width="50" /></a>
 </p>
 
 <h3 align="Center">Languages and Tools:</h3>
